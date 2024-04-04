@@ -35,8 +35,9 @@ img {
   font-weight: bold;
   font-size: clamp(2rem, 8vw, 62px);
 }
-.maan {
-  margin-left: 3rem;
+#maan {
+  margin-left: 1rem;
+  font-size: clamp(1.2rem, 5vw, 62px);
 }
 .para1 {
   font-size: clamp(1.2rem, 3.5vw, 34px);
